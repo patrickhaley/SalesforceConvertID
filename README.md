@@ -13,7 +13,7 @@ To use the function, simply enter `=SALESFORCE_18(A1)` in a cell, where `A1` con
 ## Installation
 1. Open your Google Sheet.
 2. Navigate to Extensions > Apps Script.
-3. Copy and paste the provided script from `SalesforceIDConverter.js` into the Apps Script editor `code.gs`.
+3. Copy and paste the provided script from `SalesforceConvertID.js` into the Apps Script editor `code.gs`.
 4. Save the script and refresh your Google Sheet.
 
 You can now use the `SALESFORCE_18` function in your spreadsheet.
